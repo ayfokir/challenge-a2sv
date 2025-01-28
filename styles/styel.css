@@ -1,0 +1,7 @@
+.foodWagen, .addButton{
+    color: #FFB30E;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+}
